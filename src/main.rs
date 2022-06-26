@@ -1,4 +1,3 @@
-extern crate popper;
 use popper::{execute_file, get_ast_from_file};
 use std::env;
 
